@@ -10,6 +10,6 @@ def square_array(array)
     # [1,4] and [1,4,9].
   end
   square_numbers  # Return new "square" array
-end
+
 
 
